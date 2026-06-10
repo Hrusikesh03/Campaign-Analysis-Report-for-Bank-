@@ -24,13 +24,11 @@ The dataset (`Bank Report.csv`) contains rich customer and macroeconomic data, c
 
 ## 📂 Repository Structure
 * `/Data` - Contains the raw and transformed dataset (`Bank Report.xlsx / .csv`). 
-* `/Visualizations` - Contains dashboard screenshots and visual reports (`Screenshot 2026-03-03 121325.png`).
+* `/Visualizations` - Contains dashboard screenshots and visual reports (`Bank report.png`).
 * `README.md` - Project documentation.
 
-## Dashboard Preview
-
-![Sales Analysis](Bank report.png)  
-
+## 📈 Dashboard Preview
+![Bank Marketing Dashboard Preview](Visualizations/Bankreport.png)
 ## 🚀 How to Use
 1. Clone this repository to your local machine.
 2. Open the `/Data` folder to explore the dataset and the applied transformations.
