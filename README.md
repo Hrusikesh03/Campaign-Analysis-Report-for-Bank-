@@ -23,12 +23,12 @@ The dataset (`Bank Report.csv`) contains rich customer and macroeconomic data, c
 4. **Campaign Optimization:** Analyzing the success rate of previous campaigns (`poutcome`) to refine future targeting strategies and reduce unnecessary outreach.
 
 ## 📂 Repository Structure
-* `/Data` - Contains the raw and transformed dataset (`Bank Report.xlsx / .csv`). 
-* `/Visualizations` - Contains dashboard screenshots and visual reports (`Bank report.png`).
+* `/Data` - Contains the raw and transformed dataset (`Bank_Report.xlsx / .csv`). 
+* `/Visualizations` - Contains dashboard screenshots and visual reports (`Bank_report.png`).
 * `README.md` - Project documentation.
 
 ## 📈 Dashboard Preview
-![Bank Marketing Dashboard Preview](Visualizations/Bankreport.png)
+![Bank Marketing Dashboard Preview](Visualizations/Bank_report.png)
 ## 🚀 How to Use
 1. Clone this repository to your local machine.
 2. Open the `/Data` folder to explore the dataset and the applied transformations.
