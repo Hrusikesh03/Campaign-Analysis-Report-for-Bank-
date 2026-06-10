@@ -28,7 +28,7 @@ The dataset (`Bank Report.csv`) contains rich customer and macroeconomic data, c
 * `README.md` - Project documentation.
 
 ## 📈 Dashboard Preview
-![Bank Marketing Dashboard Preview](Visualizations/Bank_report.png)
+![Bank Marketing Dashboard Preview](Bank_report.png)
 ## 🚀 How to Use
 1. Clone this repository to your local machine.
 2. Open the `/Data` folder to explore the dataset and the applied transformations.
